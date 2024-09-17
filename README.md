@@ -11,9 +11,10 @@ Activdad 8
 
 - Codigo
   
-![image](https://github.com/user-attachments/assets/db43a142-20d6-4160-bb6e-2e66a70ad251)
+![image](https://github.com/user-attachments/assets/0c24e973-d140-4ad6-aced-0c51ec34053c)
 
 - Resultado
 
-![image](https://github.com/user-attachments/assets/2d0ca755-6c82-4b6b-8310-495ecb5f13f7)
+![image](https://github.com/user-attachments/assets/63836d20-aea2-48e9-bf6a-cbf63b89643b)
+
 
